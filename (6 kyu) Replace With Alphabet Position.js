@@ -8,4 +8,4 @@ function alphabetPosition(text) {
     }
     return result.join(" ");
 }
-console.log(alphabetPosition("aThe sunset sets at twelve o' clock."))
+console.log(alphabetPosition("God is good!"))
